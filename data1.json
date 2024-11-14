@@ -1,0 +1,14 @@
+{
+    "name": "Ramsey Mell",
+    "age": 24,
+    "city": "Seattle, SE",
+    "interests": [
+        "Hiking",
+        "Walking",
+        "Videogames",
+        "Movies",
+        "Hanging Out",
+        "Traveling"
+    ],
+    "isStudent": false
+}
